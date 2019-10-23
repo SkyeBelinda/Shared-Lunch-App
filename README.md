@@ -1,9 +1,7 @@
-# A starter webpack project for React
+# A personal project to help make workplace shared lunches more co-ordinated and delicious
 
-This is a starter project that uses webpack to transpile and bundle ES6 React code. To use, consider these steps:
+This was built throughout my time studying at Enspiral Dev Academy - to practice react and javascript.
 
-* Fork this repo
-* Rename your repo according to the app you're building
 
 ```sh
 git clone https://github.com/[your-account]/[your-app].git
